@@ -1,0 +1,19 @@
+﻿Build started 22.07.2013 20:02:12.
+Project "c:\Users\temp.step.002\documents\visual studio 2012\Projects\03_STL.Deque\03_STL.Deque\03_STL.Deque.vcxproj" on node 2 (Build target(s)).
+ClCompile:
+  C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\03_STL.Deque.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt 03_STL.Deque.cpp
+  03_STL.Deque.cpp
+c:\users\temp.step.002\documents\visual studio 2012\projects\03_stl.deque\03_stl.deque\03_stl.deque.cpp(24): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\temp.step.002\documents\visual studio 2012\projects\03_stl.deque\03_stl.deque\03_stl.deque.cpp(42): warning C4018: '<' : signed/unsigned mismatch
+c:\users\temp.step.002\documents\visual studio 2012\projects\03_stl.deque\03_stl.deque\03_stl.deque.cpp(57): warning C4018: '<' : signed/unsigned mismatch
+c:\users\temp.step.002\documents\visual studio 2012\projects\03_stl.deque\03_stl.deque\03_stl.deque.cpp(65): warning C4018: '<' : signed/unsigned mismatch
+c:\users\temp.step.002\documents\visual studio 2012\projects\03_stl.deque\03_stl.deque\03_stl.deque.cpp(75): warning C4018: '<' : signed/unsigned mismatch
+Link:
+  C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\temp.step.002\documents\visual studio 2012\Projects\03_STL.Deque\Debug\03_STL.Deque.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\temp.step.002\documents\visual studio 2012\Projects\03_STL.Deque\Debug\03_STL.Deque.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\temp.step.002\documents\visual studio 2012\Projects\03_STL.Deque\Debug\03_STL.Deque.lib" /MACHINE:X86 Debug\03_STL.Deque.obj
+  Debug\stdafx.obj
+  03_STL.Deque.vcxproj -> c:\users\temp.step.002\documents\visual studio 2012\Projects\03_STL.Deque\Debug\03_STL.Deque.exe
+Done Building Project "c:\Users\temp.step.002\documents\visual studio 2012\Projects\03_STL.Deque\03_STL.Deque\03_STL.Deque.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.41
